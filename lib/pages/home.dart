@@ -113,7 +113,6 @@ class _HomePageState extends State<HomePage> {
       text,
       textAlign: TextAlign.left,
       style: TextStyle(
-        textBaseline: TextBaseline.ideographic,
         color: Colors.black,
         fontWeight: FontWeight.w400,
         fontFamily: 'Roboto',
