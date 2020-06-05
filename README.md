@@ -1,4 +1,4 @@
-# future_widget
+# CovidTracker
 
 A new Flutter project.
 
@@ -15,7 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+# Your Amazing Team
+  [JacsonX](https://github.com/Jacsonx)
 
 ## install
-
-on VScode save the arquive pubspec.yaml to install Dio and crypto. then start with f5.
+ * on VScode save the arquive pubspec.yaml to install your libraries 
+ * start with F5.
+ * Enjoy!
