@@ -1,6 +1,6 @@
 # CovidTracker
 
-A new Flutter project.
+Flutter application to show data about covid-19 in brazil.
 
 ## Getting Started
 
